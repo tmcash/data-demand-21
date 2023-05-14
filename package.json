@@ -1,6 +1,9 @@
 {
 "name": "data-demand-21",
 "version": "1.0.0",
+"engines": {
+    "node": "19.4.0"
+},
 "description": "",
 "main": "server/server.js",
 "scripts": {
